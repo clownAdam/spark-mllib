@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dataguru/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/assembly/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/bagel/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/core/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/examples/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/flume-assembly/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/flume-sink/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/flume/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/kafka-assembly/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/kafka/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/mqtt-assembly/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/mqtt/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/twitter/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/external/zeromq/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/graphx/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/launcher/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/mllib/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/network/common/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/network/shuffle/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/repl/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/sql/catalyst/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/sql/core/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/sql/hive/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/streaming/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/tools/pom.xml" />
+        <option value="$USER_HOME$/Downloads/spark-1.5.1/unsafe/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

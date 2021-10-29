@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/core/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/examples/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/launcher/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/network/common/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/network/shuffle/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/sql/catalyst/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/sql/core/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/sql/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/sql/hive/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/streaming/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/streaming/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spark-1.5.1/unsafe/src/main/java" charset="UTF-8" />
+  </component>
+</project>
